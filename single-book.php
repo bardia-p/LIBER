@@ -21,7 +21,7 @@
       }
     ?>
     
-    <!-- Main section about painting -->
+    <!-- Main section about the book -->
     <section class="ui segment grey100">
         <div class="ui doubling stackable grid container">
               <div class="nine wide column">

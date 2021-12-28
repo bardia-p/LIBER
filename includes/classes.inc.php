@@ -1,6 +1,6 @@
 <?php
    /**
-    * The class Painting holds all the information about a single painting.
+    * The class Book holds all the information about a single book.
     */
     class Book {
         public $isbn;

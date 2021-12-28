@@ -8,11 +8,11 @@
             $isbn = '273-21-86363-55-0';
         }
 
-        // Checks to see if one painting should be removed.
+        // Checks to see if one book should be removed.
         if ($isbn == -1) {
             $cart_items = Array();
         } else {
-        // Removing an individual painting.
+        // Removing an individual book.
         if (isset($_SESSION['Cart'])){
             $cart_items = $_SESSION['Cart'];
         } else {
